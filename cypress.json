@@ -1,0 +1,23 @@
+{
+
+
+      "viewportHeight":768,
+      "viewportWidth":1366,
+      "baseURL":"https://www.marabraz.com.br/",
+      "defaultCommandTimeout":10000,
+
+
+      "video":true,
+      "videoUploadOnPasses":true,
+      "videoCompression":32
+
+
+
+
+
+
+
+
+
+
+}
