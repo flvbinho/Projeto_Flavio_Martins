@@ -24,9 +24,10 @@ do cartão utilizado.
 
 - Sistema Operacional Windows 7 
 
-- VSCODE - (Editor de Código Fonte) - https://code.visualstudio.com/
-- NODEjs -  https://nodejs.org/en/  - Node.js trata-se de um software open-source, cross-platform, e de um runtime de JavaScript 
-- CYPRESS - https://www.cypress.io/ - Framework de testes automatizados
+- VSCODE     - (Editor de Código Fonte) - https://code.visualstudio.com/
+- NODEjs     - https://nodejs.org/en/   - Node.js trata-se de um software open-source, cross-platform, e de um runtime de JavaScript 
+- CYPRESS    - https://www.cypress.io/  - Framework de testes automatizados
+- JAVASCRIPT - Linguagem de programação
  
 
 
