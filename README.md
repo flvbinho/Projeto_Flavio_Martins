@@ -1,4 +1,4 @@
-# Projeto_IT_Singular_Analista_Qualidade_Flavio_Martins
+# Projeto_Flavio_Martins
 
 
 Diante de um cenário de compra em um e-commerce escolha a forma de pagamento (débito, crédito à vista ou
