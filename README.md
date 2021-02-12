@@ -2,7 +2,7 @@
 
 
 Diante de um cenário de compra em um e-commerce escolha a forma de pagamento (débito, crédito à vista ou
-crédito parcelado) e desenvolva o seu teste automatizado.
+crédito parcelado ou Boleto ) e desenvolva o seu teste automatizado.
 
 Segue as considerações:
 
